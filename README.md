@@ -1,1 +1,3 @@
-# aspirantes-mir-ejercicio-2
+Natalia
+Carlos
+Gustavo
